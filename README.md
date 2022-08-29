@@ -47,7 +47,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Image
 ![manage-employee](https://github.com/MariaMuniz/manage-employee/blob/main/public/img1.png)
-# Image Edit Modal
+# Image Edit Employee
 ![manage-employee](https://github.com/MariaMuniz/manage-employee/blob/main/public/img2.png)
-# Image Create Modal
+# Image Add Employee
 ![manage-employee](https://github.com/MariaMuniz/manage-employee/blob/main/public/img3.png)
