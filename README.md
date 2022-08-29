@@ -2,14 +2,14 @@
 
 
 ## Using
- Context API,
- UUID Usage,
- Local Storage
-React-Bootstrap:
-Sorting,
-Alert Message,
-Tooltip Message,
-Pagination.
+ * Context API,
+ * UUID Usage,
+ * Local Storage
+* React-Bootstrap:
+* Sorting,
+* Alert Message,
+* Tooltip Message,
+* Pagination.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
