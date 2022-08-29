@@ -47,3 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Image
 ![manage employee](https://github.com/MariaMuniz/manage employee/blob/master/img1.png)
+![manage-employee(https://github.com/MariaMuniz/manage-employee/blob/main/public/img1.png)
