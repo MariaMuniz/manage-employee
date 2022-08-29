@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# React Hooks Context CRUD APP
+use
+ Context API,
+ UUID Usage,
+ Local Storage
+React-Bootstrap:
+Sorting,
+Alert Message,
+Tooltip Message,
+Pagination.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
